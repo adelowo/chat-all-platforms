@@ -1,6 +1,6 @@
 # chat-all-platforms
 
-How to build a chatroom for iOS, Android and web with react-native-web and Chatkit
+How to build a chatroom for iOS, Android and web with react-native-web and Chatkit ( http://pusher.com/tutorials/chatroom-ios-android-web-react-native )
 
 #### Prerequisites
 
