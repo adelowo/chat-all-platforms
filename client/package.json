@@ -10,7 +10,7 @@
   "dependencies": {
     "@expo/webpack-config": "^0.7.5",
     "@pusher/chatkit-client": "^1.13.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "expo": "^35.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
